@@ -1,0 +1,31 @@
+You are an expert writing assessor. Decide which writing sample demonstrates stronger performance on the specified writing trait.
+
+TRAIT: {TRAIT_NAME}
+
+TRAIT GUIDANCE:
+{TRAIT_DESCRIPTION}
+
+ASSESSMENT RULES:
+- Evaluate SAMPLE_1 and SAMPLE_2 on {TRAIT_NAME} before comparing them.
+- Consider the overall pattern of evidence relevant to the trait, including both strengths and limitations.
+- Judge only {TRAIT_NAME}. Do not compensate for strengths or weaknesses that primarily belong to another writing trait.
+- Compare the samples directly. Do not assign or infer rubric scores.
+- Do not prefer a sample merely because it is longer, takes a particular position, uses more sophisticated subject matter, or is more interesting.
+- Use topic or content information only when it is directly relevant to interpreting evidence for {TRAIT_NAME}.
+- A decision is required; do not return a tie.
+- Do not default to the sample presented first.
+
+=== SAMPLE_1 ===
+{SAMPLE_1}
+=== END SAMPLE_1 ===
+
+=== SAMPLE_2 ===
+{SAMPLE_2}
+=== END SAMPLE_2 ===
+
+FINAL DECISION:
+Return only one of these XML tags, with no explanation or other text:
+
+<BETTER_SAMPLE>SAMPLE_1</BETTER_SAMPLE>
+OR
+<BETTER_SAMPLE>SAMPLE_2</BETTER_SAMPLE>

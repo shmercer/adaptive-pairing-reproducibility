@@ -1,0 +1,118 @@
+{
+  "source_stage": "W006",
+  "template": {
+    "file": "luna_prompt_template.txt",
+    "sha256": "020de6d68266d7727444fef10c9dcd705c18b9f8a7ff3df735e2f9ba9401db2e",
+    "source_path": "prompts/cj/v1.0.txt",
+    "source_file_sha256": "214f390a69c1e8ed4d1990c4baa84b1c7b7190a3a4a28e8ca7821912c6998c93"
+  },
+  "traits": {
+    "Cohesion": {
+      "sha256": "91c92c02c7a61faa711b4f2a403823008e8c489308e338294fb6ce2af9d91604",
+      "synthetic_prompt_chars": 2267,
+      "synthetic_prompt_sha256": "b0c5735f3055f0092078711d6e3de413af2f3d2b8e816bef135f29cc029a5a3c",
+      "file": "luna_traits/cohesion.txt",
+      "source_path": "prompts/traits/cohesion.md",
+      "source_file_sha256": "43b7b1ea0d6ca06a9190d7bb405ce1929c3a8057e6d2bc13b98d811e24d2798a"
+    },
+    "Syntax": {
+      "sha256": "12a1eeb370aad18ce0b8d80ab133d9723ff89dd459844167d8ade52ab0cf52fb",
+      "synthetic_prompt_chars": 2175,
+      "synthetic_prompt_sha256": "4f9bda1f83b97791fda6f9fd0555a46da3f0d563fa8a0ca04de0eb260e686b04",
+      "file": "luna_traits/syntax.txt",
+      "source_path": "prompts/traits/syntax.md",
+      "source_file_sha256": "5c637da591f7a191bc25e3c6180f58f110ce2888088e87a14051ed940a75bff0"
+    },
+    "Vocabulary": {
+      "sha256": "d68cb9bc80ad8d6c9ff7ea1bd2b2252bad94859a5da5c133d79c5388ce12528f",
+      "synthetic_prompt_chars": 2290,
+      "synthetic_prompt_sha256": "37be50e5e980d8c4e09a9664bb992724db299c9a86057101f81d3fdb49b8ab83",
+      "file": "luna_traits/vocabulary.txt",
+      "source_path": "prompts/traits/vocabulary.md",
+      "source_file_sha256": "44319edf0c169648953b6d64cf35ec1ec0e2fde8953df42f6aadae5e97b9f240"
+    },
+    "Phraseology": {
+      "sha256": "cc20f1a956950b58261d9578332c950bd78ab68ad1ce28de24600b45db3f376a",
+      "synthetic_prompt_chars": 2208,
+      "synthetic_prompt_sha256": "8507d5943fddb6eb7df4159f321d616155508867a7e4596b696ab4c0793d725d",
+      "file": "luna_traits/phraseology.txt",
+      "source_path": "prompts/traits/phraseology.md",
+      "source_file_sha256": "eb9a08f1b4af31c6d264b98a5254cdd98bd69da45a4e18b77ce3e748679a73cf"
+    },
+    "Grammar": {
+      "sha256": "3076a470875bd1564e4fbfae73b73a7bb3dd889a02bd967dc2547510dc4eb717",
+      "synthetic_prompt_chars": 2176,
+      "synthetic_prompt_sha256": "3131e6f4d209748049800aa0a0e3c8ab776695c4c75df39ca5d1e22906048b05",
+      "file": "luna_traits/grammar.txt",
+      "source_path": "prompts/traits/grammar.md",
+      "source_file_sha256": "7184cdc95767c94bb491ec6ac711f280890a2c978d7b840fab555b992c4322bc"
+    },
+    "Conventions": {
+      "sha256": "16fd68d61f87b01df220dfe2a69d7bfd9338050efbf1bfb47b4280918c8de39e",
+      "synthetic_prompt_chars": 2081,
+      "synthetic_prompt_sha256": "14e9bb9326e2a60e5b003178b0ad9dbbec0047c9b260e636e2baa5f13b211c03",
+      "file": "luna_traits/conventions.txt",
+      "source_path": "prompts/traits/conventions.md",
+      "source_file_sha256": "ce1c3b9472f4d95493c7440bbf1bbb9cbffd7e3b069f245a98dea90973852900"
+    }
+  },
+  "public_csv_columns": [
+    "text_id_kaggle",
+    "full_text",
+    "gender",
+    "grade",
+    "race_ethnicity",
+    "num_words",
+    "num_words2",
+    "num_words3",
+    "num_sent",
+    "num_para",
+    "num_word_div_para",
+    "MTLD",
+    "TTR",
+    "Type",
+    "Token",
+    "task",
+    "SES",
+    "prompt",
+    "Overall",
+    "Cohesion",
+    "Syntax",
+    "Vocabulary",
+    "Phraseology",
+    "Grammar",
+    "Conventions",
+    "set"
+  ],
+  "text_field": "full_text",
+  "text_processing": "UTF-8 CSV decoding only; preserve the full_text field exactly",
+  "placeholder_order": [
+    "{TRAIT_NAME}",
+    "{TRAIT_DESCRIPTION}",
+    "{SAMPLE_1}",
+    "{SAMPLE_2}"
+  ],
+  "writing_task_prompt_included": false,
+  "historical_custom_ids_reconstructed": false,
+  "request_contract": {
+    "model": "gpt-5.6-luna",
+    "input": "exact rendered string",
+    "reasoning": {
+      "effort": "none"
+    },
+    "store": false,
+    "max_output_tokens": 128,
+    "omitted": [
+      "temperature",
+      "top_p",
+      "system",
+      "developer",
+      "structured_output",
+      "prompt_cache_retention"
+    ]
+  },
+  "public_source_sha256": {
+    "train": "782344e99668a3ff508d7410c0eb6e36da70f3b28f81c96e367f1ca04924b06c",
+    "test": "7e990c6392a9df9554d15bdd22f0b568d19095cd6676ad39cb1eaa69c977ed7a"
+  }
+}

@@ -1,0 +1,11 @@
+Construct definition:
+
+Vocabulary concerns the precision, range, and appropriateness of word choice.
+
+Scoring considerations:
+
+Evaluate breadth and flexibility of vocabulary; precision of word choice; appropriate use of topic-related terms and less-common lexical items; control of word choice and word forms where the official rubric treats them as lexical evidence; and whether lexical inaccuracies make meaning imprecise or distort it.
+
+Construct boundaries:
+
+Focus on individual word choice, lexical range, precision, and appropriateness. Treat multiword expressions as primarily part of Phraseology, sentence structure as primarily part of Syntax, and spelling, capitalization, and punctuation as part of Conventions. Do not reward uncommon words merely for being uncommon, do not treat topic-related vocabulary as a separate task-fulfillment score, and do not automatically reassign every word-form error to Grammar when the rubric treats word forms as lexical evidence. These boundaries are intended to reduce cross-trait halo effects, not to imply that language features never overlap.

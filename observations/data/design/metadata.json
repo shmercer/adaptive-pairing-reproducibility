@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "base": 676326,
+    "cells": 96,
+    "heldout": 67674,
+    "prompts": 16,
+    "reversal": 33858,
+    "selectable": 608652,
+    "target_essays": 1714
+  },
+  "format_version": 1,
+  "presentation": "first_wins matches the originally presented first response",
+  "privacy": "pseudonymized and publicly linkable; no human scores; rights review required",
+  "source": "pseudonymized comparative-judgment observation panel"
+}

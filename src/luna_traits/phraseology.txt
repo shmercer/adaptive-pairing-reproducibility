@@ -1,0 +1,11 @@
+Construct definition:
+
+Phraseology concerns the use and control of multiword expressions, especially idioms, collocations, lexical bundles, and other recurring phrasal patterns.
+
+Scoring considerations:
+
+Evaluate the variety and flexibility of phrases; appropriateness and accuracy of multiword combinations; the ability to use phrases to convey precise or subtle meanings; noticeable repetition or misuse of phrases; and overreliance on memorized chunks or simple phrasal patterns.
+
+Construct boundaries:
+
+Focus on multiword expressions and recurring phrasal patterns. Treat individual-word range and precision as primarily part of Vocabulary, sentence structure as primarily part of Syntax, and morphology and grammatical usage as primarily part of Grammar. Do not reward an idiom, collocation, or unusual phrase merely for being conspicuous; it should be appropriate and accurately used. These boundaries are intended to reduce cross-trait halo effects, not to imply that language features never overlap.

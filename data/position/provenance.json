@@ -1,0 +1,18 @@
+{
+  "schema": "JEM-position-joint-v1",
+  "source_script_sha256": "285f970e88ffc95724a5c8585ddd8fcb8868a09edb8759bf72e21d32735c2b6b",
+  "kernel_sha256": "1c85374600ea977923acc573b48a7372ec2b10c5738e6ae02b215ee2c3a01770",
+  "package_sha": "4c4c01453077f90e987040c6a3c3d3cd711c6f21",
+  "stan_sha256": "7868ec442712f00492ad2f4191ce34782cbd9fd57be80f6c411804d957ec014f",
+  "w012_audit_sha256": "8dc0d5cedf6a81aa11098b0a0b7f4a55d3219fc39a8dc145dc0dc1f77c7e9aef",
+  "w013_scores_sha256": "98b68a081abbe1af5e83f5e538e240a779c489fe751601f1d5425711609d805c",
+  "cell_audit_sha256": "7f3d3c77afd03db2c35a15352dc94e37d1a12bb9d865f711d1886f4703438eb9",
+  "posterior_set_sha256": "90a0060c6593348ea48df4a1a784bf975960a5eaa905a10deb01b59815adcceb",
+  "private_manifest_sha256": "17df74125a5818ae12e798e531c6e8a3acedb716d610c644aa3ae77ad948241e",
+  "seed": 20261028,
+  "n_cells": 96,
+  "draws_per_cell": 4000,
+  "R": "4.6.1",
+  "algorithm": "paired within cell; independent resampling across 96 cells; panel median per draw; type-7 quantiles",
+  "scope": "conditional on original W012 posteriors; no independent model fitting"
+}

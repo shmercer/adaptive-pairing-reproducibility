@@ -1,0 +1,35 @@
+
+\begin{table}[htbp]
+\centering
+\caption{Correlations With Human Trait Scores at $B=16$ and in Dense References}
+\label{tab:rq3-human}
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}lccc@{}}
+\toprule
+Estimator &
+\shortstack{$B=16$\\$r$ [95\% CI]} &
+\shortstack{Dense reference\\$r$ [95\% CI]} &
+\shortstack{Difference\\$\Delta r$ [95\% CI]} \\
+\midrule
+B1 & .625 [.603, .645] & .651 [.628, .674] & .027 [.022, .031] \\
+B2 & .629 [.609, .649] & .652 [.628, .674] & .022 [.018, .027] \\
+F1 & .641 [.618, .663] & .654 [.631, .676] & .013 [.010, .015] \\
+F2 & .630 [.608, .652] & .652 [.629, .674] & .022 [.018, .025] \\
+F3 & .629 [.607, .651] & .651 [.628, .673] & .022 [.019, .025] \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\begin{minipage}{\linewidth}
+\footnotesize
+\textit{Note.} Values are Pearson correlations with human trait scores,
+averaged using Fisher's $z$ transformation. The $B=16$ estimates also
+average across random, p50, and Pollitt selection. Dense
+references are specific to each estimator. Differences are dense minus
+$B=16$ correlations. The 95\% CIs reflect variation across 16 prompts;
+intervals for differences use paired prompt-level observations.
+B1 = simpler Bayesian; B2 = full Bayesian;
+F1 = conventional frequentist; F2 = alpha-adjusted frequentist;
+F3 = bootstrap-corrected F2.
+\end{minipage}
+\end{table}

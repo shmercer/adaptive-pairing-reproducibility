@@ -1,0 +1,13 @@
+{
+  "schema": "JEM-manuscript-conditions-v2",
+  "counts": {
+    "rows": 10944,
+    "cells": 96,
+    "prompts": 16,
+    "estimators": 5
+  },
+  "includes_human_scores": false,
+  "includes_item_scores": false,
+  "source_manifest_sha256": "d5d96b9d72b3558fdad4e4f805c6626ecb089b3b3a0cd33c4252eb911d99c4af",
+  "source_method": "SHA-verified unrounded metrics; manuscript conditions only"
+}

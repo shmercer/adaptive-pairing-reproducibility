@@ -1,0 +1,11 @@
+Construct definition:
+
+Cohesion concerns text organization and the use of cohesive devices to connect ideas within and across sentences and paragraphs.
+
+Scoring considerations:
+
+Evaluate overall organizational control and logical sequencing; the range, appropriateness, and effectiveness of cohesive devices such as reference and transitional words or phrases; connections within and across sentences and paragraphs; continuity and appropriate overlap of ideas; and whether cohesive links become repetitive, mechanical, inaccurate, or unclear.
+
+Construct boundaries:
+
+Focus on organization, sequencing, cohesive devices, and continuity across ideas. Treat sentence formation and word order as primarily part of Syntax, individual-word precision as primarily part of Vocabulary, and spelling, capitalization, and punctuation as part of Conventions. Do not score idea quality, originality, persuasiveness, essay length, or paragraph count as evidence of Cohesion. These boundaries are intended to reduce cross-trait halo effects, not to imply that language features never overlap.

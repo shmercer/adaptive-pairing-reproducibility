@@ -1,0 +1,4 @@
+analysis,family,contrast_id,outcome,direction,estimate,se,df_satterthwaite,ci95_low,ci95_high,p_value,n_prompts,n_cells,target_prompts,target_traits,status,reason
+RQ2,Holm-6,Bayesian:p50-random,integrated_gap,positive_means_larger_reliability_minus_recovery,-0.0679894780762315,0.00247847560997323,15,-0.0732722237887899,-0.0627067323636731,3.11157341049076e-14,16,96,16,6,estimable,complete_target_support
+RQ2,Holm-6,Bayesian:p50-pollitt,integrated_gap,positive_means_larger_reliability_minus_recovery,-0.0237096198681356,0.00198213539201303,15,-0.0279344414486797,-0.0194847982875915,4.5159622531955e-09,16,96,16,6,estimable,complete_target_support
+RQ2,Holm-6,Bayesian:p50-hybrid,integrated_gap,positive_means_larger_reliability_minus_recovery,-0.00615802154576387,0.00168902077034824,15,-0.00975808409916364,-0.00255795899236409,0.00238978376249891,16,96,16,6,estimable,complete_target_support

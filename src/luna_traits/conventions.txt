@@ -1,0 +1,11 @@
+Construct definition:
+
+Conventions concerns control of spelling, punctuation, and capitalization.
+
+Scoring considerations:
+
+Evaluate the consistency and appropriateness of spelling, punctuation, and capitalization; the frequency of errors; and whether those errors are negligible, noticeable, distracting, frequent, or pervasive across the essay.
+
+Construct boundaries:
+
+Focus on spelling, punctuation, and capitalization. Treat morphology and grammatical usage as primarily part of Grammar, sentence-structure range and formation as primarily part of Syntax, and organization and connections across sentences and paragraphs as primarily part of Cohesion. Do not use punctuation as evidence of syntactic range or complexity; judge it here as a written convention. These boundaries are intended to reduce cross-trait halo effects, not to imply that language features never overlap.

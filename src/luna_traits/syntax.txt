@@ -1,0 +1,11 @@
+Construct definition:
+
+Syntax concerns the range and control of sentence structures.
+
+Scoring considerations:
+
+Evaluate variation and flexibility across simple, compound, and complex sentences; sentence formation and word order; appropriateness of syntactic choices; and the frequency and seriousness of structural errors, particularly as sentence complexity increases.
+
+Construct boundaries:
+
+Focus on sentence structures, sentence formation, and word order. Treat lexical range and precision as primarily part of Vocabulary, morphology and grammatical usage as primarily part of Grammar, spelling, capitalization, and punctuation as part of Conventions, and organization and connections across sentences and paragraphs as primarily part of Cohesion. Do not reward lexical sophistication, content quality, or complexity of ideas merely because they occur in complex sentences. These boundaries are intended to reduce cross-trait halo effects, not to imply that language features never overlap.

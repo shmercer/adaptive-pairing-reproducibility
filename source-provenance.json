@@ -1,0 +1,141 @@
+{
+  "scientific_sources": {
+    "manuscript/jem/figures/build_results_figures.py": "ebeb06c9588bcbc3bd29aae4add442acdb0f60ed429930fa6d8364507a545109",
+    "manuscript/jem/figures/build_rq1_main_figure.py": "4373ed8eae3ac80fb149f953bacc16ee2426d8e448051cad5b92ead9455bc168",
+    "manuscript/jem/figures/build_rq2_storyline_figures.py": "f79b62d47c98d1ce4f3e745f21e4d0e229583f958335731add568013fe16ea69",
+    "manuscript/jem/figures/build_hybrid_pairing_flowchart.py": "a8dfa75f64126253a24fe26f88317b7645838285b8bb09cd45766ff90783a808",
+    "manuscript/jem/tables/build_rq2_main_table.py": "4b7da4f7898231c7ff0d73831bc7e391c4574180601e1b01b0cab5e982764714",
+    "manuscript/jem/tables/build_rq3_main_table.py": "167953b1303ee676ba199d1be20ddf2117f4d0ce3e41ee3581d82f397bc46768",
+    "manuscript/jem/tables/build_results_tables.py": "be9760b012a50394c3f43f6a35700905efb75c30bf311d45a68ec25c674f51da"
+  },
+  "statistical_source_sha256": "9695977979db8d4533a118640c4e90f4c34b8c2078b61ed1f47e3ac1330ce1c7",
+  "position_source_sha256": "285f970e88ffc95724a5c8585ddd8fcb8868a09edb8759bf72e21d32735c2b6b",
+  "documentation_changes": [
+    {
+      "file": "src/build_hybrid_pairing_flowchart.py",
+      "before_sha256": "a8dfa75f64126253a24fe26f88317b7645838285b8bb09cd45766ff90783a808",
+      "exported_sha256": "ad757b9065c892f26c6acd415440442fcf69ca353c1926fbe20d943543a0363b",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/build_results_figures.py",
+      "before_sha256": "2e899c7ab89348692c0cfa549582e6621a50eee2bcdbee5a8cdc864fd46509d3",
+      "exported_sha256": "57d938cbbf1f9c5f8adc966d78893d1c415ae2a33e86e67798bdf3c338e609b5",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/build_rq1_main_figure.py",
+      "before_sha256": "4373ed8eae3ac80fb149f953bacc16ee2426d8e448051cad5b92ead9455bc168",
+      "exported_sha256": "0fa5f2a0775a35e0797b8e8bcc42a7a034b897aa01da6802ac12876c564fb900",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/build_rq2_main_table.py",
+      "before_sha256": "6a6fc686e4fc291df2f4ed925963e62fe58f0f3f59b805dae67a28a1e3d538ee",
+      "exported_sha256": "2f9d77bedd66c1403e6562c6b3abe8710e35c3ec25fac8d5b9440b4f79876731",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/build_rq2_storyline_figures.py",
+      "before_sha256": "f79b62d47c98d1ce4f3e745f21e4d0e229583f958335731add568013fe16ea69",
+      "exported_sha256": "52f0801a40cf14774fd222339fff5ec847bdd1e90273ec68285f582a9f609939",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/build_rq3_main_table.py",
+      "before_sha256": "167953b1303ee676ba199d1be20ddf2117f4d0ce3e41ee3581d82f397bc46768",
+      "exported_sha256": "f3ce8aa4d4fdd3d14fdcb38167bc36e8d8dc70816566facf25843e9fdd4c9a49",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/human_correlations.py",
+      "before_sha256": "4abed138c1c778b556076cf50f2fe12210c93811c80b2623ad46f71f5290eff1",
+      "exported_sha256": "c8f302cfa8d443f00b167c9197c831ef2c311626c0a6f33a0639406ce450996f",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/merge_human_ratings.py",
+      "before_sha256": "84888e1d2318caef96579aeb7b9fd43ca151247d66fa88da69d5d955ff5d1a81",
+      "exported_sha256": "67e7c879fb23f11aa151ae32f53feecbce473a0aec04f758cbcce1dec182d550",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/prepare_luna_inputs.py",
+      "before_sha256": "25f51c17d23f1c8ccb1e1218c8e030a669bdf80bc159105a30b056851c62a7ae",
+      "exported_sha256": "17f766596702553d6cefc0675aa55bbff18b0ea9540611ce0d295e2493d015f4",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/recalculate_reversals.py",
+      "before_sha256": "01015c5165469475f8bf75782835ec47b9a1dd6e1ae0a666c3b73dfaf06b534c",
+      "exported_sha256": "4494f464c01dab4b7d3b9a89eccf95161449d62efc0598779d60971723133f91",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/table_common.py",
+      "before_sha256": "abc0c018c3fac4061060307fa45592a0f76ceb7d5b8484728cb99e789f00a1e2",
+      "exported_sha256": "3571ab50330b6076ea69bfa747c6af6cffccc06c2005f57096547af533f8c075",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/validate_condition_metrics.py",
+      "before_sha256": "2ff74fa6eb77f5dbb0b0342422027ca61b2a2788b7aecf7d49bec263bf2c0074",
+      "exported_sha256": "e5fdcb709095053d6e36515092884f7e84738a1d079e0f87ae78c600b4ba3d78",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "src/validate_observations.py",
+      "before_sha256": "f8a47886516752f0feb1082335de7ad13928a54c340ca5d5c57cb8c6dc8f8cee",
+      "exported_sha256": "8ba64283f5a1bc5ccbe335ab5a423ef3e5271192f5d422d867f8f55d11b94ff8",
+      "check": "Executable Python syntax tree identical after removing documentation and normalizing allowlisted command paths"
+    },
+    {
+      "file": "run.py",
+      "before_sha256": "7b1ff758f8f197c08fa80563b50f0323b65a111ee0cf1548c01ac1b0dc4b1c5e",
+      "exported_sha256": "90d087ae9434f2a29a2e0126955186123d8bfee42fe659c245825ac448067061",
+      "check": "Executable Python syntax tree identical after removing documentation"
+    }
+  ],
+  "R_sources": [
+    {
+      "file": "src/recalculate_inference.R",
+      "source": "scripts/review-artifact/recalculate_inference.R",
+      "source_sha256": "2eebf64503b5fef1903aae85c9cd2a75e2cae61ddbd71bd8e5dbd5b6483dbab7",
+      "exported_sha256": "2eebf64503b5fef1903aae85c9cd2a75e2cae61ddbd71bd8e5dbd5b6483dbab7"
+    },
+    {
+      "file": "src/recalculate_position.R",
+      "source": "scripts/review-artifact/recalculate_position.R",
+      "source_sha256": "c57fd760e2ed984f89093950711ccdb170a7baed782b6eca429d9589f0019e86",
+      "exported_sha256": "4eca5640d82fd9889c8c81810491614e816144f56e8908f66d288cba60624f11"
+    },
+    {
+      "file": "src/rejudge_luna_pairs.R",
+      "source": "scripts/review-artifact/rejudge_luna_pairs.R",
+      "source_sha256": "5dc64adc211cd0c948c5e54f49dd8b37aeebd3d503132e1c3ac985fce5722695",
+      "exported_sha256": "5dc64adc211cd0c948c5e54f49dd8b37aeebd3d503132e1c3ac985fce5722695"
+    },
+    {
+      "file": "src/d153_statistics.R",
+      "source": "R/d153_statistics.R",
+      "source_sha256": "9695977979db8d4533a118640c4e90f4c34b8c2078b61ed1f47e3ac1330ce1c7",
+      "exported_sha256": "4c36cd2c593f8951cc7d064142f6bc3b86bd333548e25f0b412a9502213d97ed"
+    },
+    {
+      "file": "src/position-kernel.R",
+      "source": "analysis/manuscript-luna-position-summary.R",
+      "source_sha256": "285f970e88ffc95724a5c8585ddd8fcb8868a09edb8759bf72e21d32735c2b6b",
+      "exported_sha256": "1c85374600ea977923acc573b48a7372ec2b10c5738e6ae02b215ee2c3a01770"
+    }
+  ],
+  "luna_resources": {
+    "luna_prompt_contract.json": "4c20ceec2134dd4db99aa1436d8d2b5578f9e54e595c954872772a48d2430350",
+    "luna_prompt_template.txt": "020de6d68266d7727444fef10c9dcd705c18b9f8a7ff3df735e2f9ba9401db2e",
+    "luna_traits/cohesion.txt": "91c92c02c7a61faa711b4f2a403823008e8c489308e338294fb6ce2af9d91604",
+    "luna_traits/conventions.txt": "16fd68d61f87b01df220dfe2a69d7bfd9338050efbf1bfb47b4280918c8de39e",
+    "luna_traits/grammar.txt": "3076a470875bd1564e4fbfae73b73a7bb3dd889a02bd967dc2547510dc4eb717",
+    "luna_traits/phraseology.txt": "cc20f1a956950b58261d9578332c950bd78ab68ad1ce28de24600b45db3f376a",
+    "luna_traits/syntax.txt": "12a1eeb370aad18ce0b8d80ab133d9723ff89dd459844167d8ade52ab0cf52fb",
+    "luna_traits/vocabulary.txt": "d68cb9bc80ad8d6c9ff7ea1bd2b2252bad94859a5da5c133d79c5388ce12528f"
+  }
+}

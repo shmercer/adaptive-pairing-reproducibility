@@ -1,0 +1,11 @@
+Construct definition:
+
+Grammar concerns control of morphology and grammatical usage.
+
+Scoring considerations:
+
+Evaluate the frequency and pervasiveness of errors in grammar and usage and the overall degree of grammatical control demonstrated across the essay. The official rubric defines this trait primarily through the amount of grammatical and usage error, so do not introduce additional subcriteria that are not present in the source rubric.
+
+Construct boundaries:
+
+Focus on morphology and grammatical usage. Treat sentence-structure range, sentence formation, and word order as primarily part of Syntax, spelling, capitalization, and punctuation as part of Conventions, and lexical range and word choice as primarily part of Vocabulary. Do not use sophistication in sentence structure, vocabulary, phrase choice, or content as evidence of grammatical control by itself. These boundaries are intended to reduce cross-trait halo effects, not to imply that language features never overlap.

@@ -1,0 +1,4 @@
+"analysis","family","contrast_id","outcome","direction","estimate","se","df_satterthwaite","ci95_low","ci95_high","p_value","n_prompts","n_cells","target_prompts","target_traits","status","reason","p_holm"
+"RQ1","Holm-3","p50-random","aurc","higher_favors_first",0.0287393924510519,0.00251528224908838,15,0.0233781952442779,0.0341005896578259,8.42260134644974e-09,16,96,16,6,"estimable","complete_target_support",1.42833504313952e-08
+"RQ1","Holm-3","pollitt-random","aurc","higher_favors_first",0.0273932245105918,0.00229896960244947,15,0.0224930867961951,0.0322933622249885,4.76111681046507e-09,16,96,16,6,"estimable","complete_target_support",1.42833504313952e-08
+"RQ1","Holm-3","hybrid-random","aurc","higher_favors_first",0.0225086756588537,0.00191388199679753,15,0.0184293327465246,0.0265880185711829,5.68962958460193e-09,16,96,16,6,"estimable","complete_target_support",1.42833504313952e-08
