@@ -1,5 +1,11 @@
 # Reproducing the manuscript results
 
+## Supplementary materials
+
+The study's supplementary document, [**Supplementary Materials (PDF)**](supplement/jem-supplement.pdf), accompanies *Adaptive Pair Selection and Score Estimation in LLM-Based Comparative Judgment of Writing*. It contains Supplementary Appendix A (analytic writing trait guidance), Supplementary Appendix B (the LLM comparative-judgment instructions), Supplementary Appendix C (TrueSkill updates and hybrid pair selection), and Supplementary Figure 1 (the hybrid pairing flowchart).
+
+The supplement documents the study methods; the reproduction commands below do not require the PDF.
+
 ## What does this package reproduce?
 
 This package accompanies the study of pair selection and score estimation
